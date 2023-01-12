@@ -1,2 +1,3 @@
-#loilo-inc.github.io
+loilo-inc.github.io
 ---
+Here is Github Pages of LoiLo Inc.
